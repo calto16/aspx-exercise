@@ -1,0 +1,1 @@
+print(f"Image saved as {filename}")
